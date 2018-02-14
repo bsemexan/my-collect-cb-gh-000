@@ -1,7 +1,7 @@
 
 def my_collect(array)
   i = 0
-  collection[]
+  collection = []
   while i < array.length
     collection[i]
     i += 1
